@@ -1,0 +1,40 @@
+*{
+  box-sizing: border-box;
+}
+html {
+  font-size: 10px
+}
+
+body{
+font-size: 2rem;
+  padding: 3rem;
+  background-color: rgba(0,131,255,0.45);
+}
+header {
+  text-align: center;
+}
+#img-div{
+margin: auto;
+text-align: center;
+padding: 2rem
+}
+#image {
+display: block;
+max-width: 50%;
+margin: auto;
+}
+
+#tribute-info {
+  width: 60%;
+  margin: auto;
+  text-align: center;
+}
+
+#tribute-info h2{
+  text-transform: capitalize;
+}
+
+.tribute li{
+  margin-bottom: 2rem
+
+}
